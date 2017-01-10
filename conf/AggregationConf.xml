@@ -1,0 +1,6 @@
+<config>
+    <DIVIDETIME>5</DIVIDETIME><!--初始划分小组间隔时间(min)-->
+    <CHECKTIME1>30</CHECKTIME1><!--时间间隔阈值1(min)-->
+    <JUMPGROUPNUM>2</JUMPGROUPNUM><!--跳组数-->
+    <DIS>1000</DIS><!--距离间隔阈值(m)-->
+</config>
